@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|e:\\workspace_tra\\it languages\\csharp\\extracttextfromfilepdforimage\\extracttext\\extracttext\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|solutionrelative:extracttext\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|e:\\workspace_tra\\it languages\\csharp\\extracttextfromfilepdforimage\\extracttext\\extracttext\\extracttext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|solutionrelative:extracttext\\extracttext.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|e:\\workspace_tra\\it languages\\csharp\\extracttextfromfilepdforimage\\extracttext\\extracttext\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E88C57C-2985-491F-AFE8-3EDC8E8358FD}|ExtractText\\ExtractText.csproj|solutionrelative:extracttext\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ExtractText\\Form1.Designer.cs",
+              "ToolTip": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\Form1.Designer.cs",
+              "RelativeToolTip": "ExtractText\\Form1.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:20:42.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtractText",
+              "DocumentMoniker": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\ExtractText.csproj",
+              "RelativeDocumentMoniker": "ExtractText\\ExtractText.csproj",
+              "ToolTip": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\ExtractText.csproj",
+              "RelativeToolTip": "ExtractText\\ExtractText.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T19:06:55.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\Form1.cs",
+              "RelativeDocumentMoniker": "ExtractText\\Form1.cs",
+              "ToolTip": "E:\\workspace_tra\\IT languages\\CSHARP\\ExtractTextFromFilePDForImage\\ExtractText\\ExtractText\\Form1.cs*",
+              "RelativeToolTip": "ExtractText\\Form1.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv14AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:28:44.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
